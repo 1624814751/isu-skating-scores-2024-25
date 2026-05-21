@@ -1,0 +1,431 @@
+competition,discipline,judge,judge_country
+ec2025_protocol,PAIRS SHORT PROGRAM,J1,ISU
+ec2025_protocol,PAIRS SHORT PROGRAM,J2,ISU
+ec2025_protocol,PAIRS SHORT PROGRAM,J3,ISU
+ec2025_protocol,PAIRS SHORT PROGRAM,J4,ISU
+ec2025_protocol,PAIRS SHORT PROGRAM,J5,ISU
+ec2025_protocol,PAIRS SHORT PROGRAM,J6,ISU
+ec2025_protocol,PAIRS SHORT PROGRAM,J7,ISU
+ec2025_protocol,PAIRS SHORT PROGRAM,J8,ISU
+ec2025_protocol,PAIRS SHORT PROGRAM,J9,ISU
+ec2025_protocol,PAIRS FREE SKATING,J1,ISU
+ec2025_protocol,PAIRS FREE SKATING,J2,ISU
+ec2025_protocol,PAIRS FREE SKATING,J3,ISU
+ec2025_protocol,PAIRS FREE SKATING,J4,ISU
+ec2025_protocol,PAIRS FREE SKATING,J5,ISU
+ec2025_protocol,PAIRS FREE SKATING,J6,ISU
+ec2025_protocol,PAIRS FREE SKATING,J7,ISU
+ec2025_protocol,PAIRS FREE SKATING,J8,ISU
+ec2025_protocol,PAIRS FREE SKATING,J9,ISU
+ec2025_protocol,WOMEN SHORT PROGRAM,J1,ISU
+ec2025_protocol,WOMEN SHORT PROGRAM,J2,ISU
+ec2025_protocol,WOMEN SHORT PROGRAM,J3,ISU
+ec2025_protocol,WOMEN SHORT PROGRAM,J4,ISU
+ec2025_protocol,WOMEN SHORT PROGRAM,J5,ISU
+ec2025_protocol,WOMEN SHORT PROGRAM,J6,ISU
+ec2025_protocol,WOMEN SHORT PROGRAM,J7,ISU
+ec2025_protocol,WOMEN SHORT PROGRAM,J8,ISU
+ec2025_protocol,WOMEN SHORT PROGRAM,J9,ISU
+ec2025_protocol,WOMEN FREE SKATING,J1,ISU
+ec2025_protocol,WOMEN FREE SKATING,J2,ISU
+ec2025_protocol,WOMEN FREE SKATING,J3,ISU
+ec2025_protocol,WOMEN FREE SKATING,J4,ISU
+ec2025_protocol,WOMEN FREE SKATING,J5,ISU
+ec2025_protocol,WOMEN FREE SKATING,J6,ISU
+ec2025_protocol,WOMEN FREE SKATING,J7,ISU
+ec2025_protocol,WOMEN FREE SKATING,J8,ISU
+ec2025_protocol,WOMEN FREE SKATING,J9,ISU
+ec2025_protocol,ICE DANCE RHYTHM DANCE,J1,ISU
+ec2025_protocol,ICE DANCE RHYTHM DANCE,J2,ISU
+ec2025_protocol,ICE DANCE RHYTHM DANCE,J3,ISU
+ec2025_protocol,ICE DANCE RHYTHM DANCE,J4,ISU
+ec2025_protocol,ICE DANCE RHYTHM DANCE,J5,ISU
+ec2025_protocol,ICE DANCE RHYTHM DANCE,J6,ISU
+ec2025_protocol,ICE DANCE RHYTHM DANCE,J7,ISU
+ec2025_protocol,ICE DANCE RHYTHM DANCE,J8,ISU
+ec2025_protocol,ICE DANCE RHYTHM DANCE,J9,ISU
+ec2025_protocol,ICE DANCE FREE DANCE,J1,ISU
+ec2025_protocol,ICE DANCE FREE DANCE,J2,ISU
+ec2025_protocol,ICE DANCE FREE DANCE,J3,ISU
+ec2025_protocol,ICE DANCE FREE DANCE,J4,ISU
+ec2025_protocol,ICE DANCE FREE DANCE,J5,ISU
+ec2025_protocol,ICE DANCE FREE DANCE,J6,ISU
+ec2025_protocol,ICE DANCE FREE DANCE,J7,ISU
+ec2025_protocol,ICE DANCE FREE DANCE,J8,ISU
+ec2025_protocol,ICE DANCE FREE DANCE,J9,ISU
+ec2025_protocol,MEN SHORT PROGRAM,J1,ISU
+ec2025_protocol,MEN SHORT PROGRAM,J2,ISU
+ec2025_protocol,MEN SHORT PROGRAM,J3,ISU
+ec2025_protocol,MEN SHORT PROGRAM,J4,ISU
+ec2025_protocol,MEN SHORT PROGRAM,J5,ISU
+ec2025_protocol,MEN SHORT PROGRAM,J6,ISU
+ec2025_protocol,MEN SHORT PROGRAM,J7,ISU
+ec2025_protocol,MEN SHORT PROGRAM,J8,ISU
+ec2025_protocol,MEN SHORT PROGRAM,J9,ISU
+ec2025_protocol,MEN FREE SKATING,J1,ISU
+ec2025_protocol,MEN FREE SKATING,J2,ISU
+ec2025_protocol,MEN FREE SKATING,J3,ISU
+ec2025_protocol,MEN FREE SKATING,J4,ISU
+ec2025_protocol,MEN FREE SKATING,J5,ISU
+ec2025_protocol,MEN FREE SKATING,J6,ISU
+ec2025_protocol,MEN FREE SKATING,J7,ISU
+ec2025_protocol,MEN FREE SKATING,J8,ISU
+ec2025_protocol,MEN FREE SKATING,J9,ISU
+fc2025_protocol,PAIRS SHORT PROGRAM,J1,ISU
+fc2025_protocol,PAIRS SHORT PROGRAM,J2,ISU
+fc2025_protocol,PAIRS SHORT PROGRAM,J3,ISU
+fc2025_protocol,PAIRS SHORT PROGRAM,J4,ISU
+fc2025_protocol,PAIRS SHORT PROGRAM,J5,ISU
+fc2025_protocol,PAIRS SHORT PROGRAM,J6,ISU
+fc2025_protocol,PAIRS SHORT PROGRAM,J7,ISU
+fc2025_protocol,PAIRS SHORT PROGRAM,J8,ISU
+fc2025_protocol,PAIRS SHORT PROGRAM,J9,ISU
+fc2025_protocol,PAIRS FREE SKATING,J1,ISU
+fc2025_protocol,PAIRS FREE SKATING,J2,ISU
+fc2025_protocol,PAIRS FREE SKATING,J3,ISU
+fc2025_protocol,PAIRS FREE SKATING,J4,ISU
+fc2025_protocol,PAIRS FREE SKATING,J5,ISU
+fc2025_protocol,PAIRS FREE SKATING,J6,ISU
+fc2025_protocol,PAIRS FREE SKATING,J7,ISU
+fc2025_protocol,PAIRS FREE SKATING,J8,ISU
+fc2025_protocol,PAIRS FREE SKATING,J9,ISU
+fc2025_protocol,MEN SHORT PROGRAM,J1,ISU
+fc2025_protocol,MEN SHORT PROGRAM,J2,ISU
+fc2025_protocol,MEN SHORT PROGRAM,J3,ISU
+fc2025_protocol,MEN SHORT PROGRAM,J4,ISU
+fc2025_protocol,MEN SHORT PROGRAM,J5,ISU
+fc2025_protocol,MEN SHORT PROGRAM,J6,ISU
+fc2025_protocol,MEN SHORT PROGRAM,J7,ISU
+fc2025_protocol,MEN SHORT PROGRAM,J8,ISU
+fc2025_protocol,MEN SHORT PROGRAM,J9,ISU
+fc2025_protocol,MEN FREE SKATING,J1,ISU
+fc2025_protocol,MEN FREE SKATING,J2,ISU
+fc2025_protocol,MEN FREE SKATING,J3,ISU
+fc2025_protocol,MEN FREE SKATING,J4,ISU
+fc2025_protocol,MEN FREE SKATING,J5,ISU
+fc2025_protocol,MEN FREE SKATING,J6,ISU
+fc2025_protocol,MEN FREE SKATING,J7,ISU
+fc2025_protocol,MEN FREE SKATING,J8,ISU
+fc2025_protocol,MEN FREE SKATING,J9,ISU
+fc2025_protocol,ICE DANCE RHYTHM DANCE,J1,ISU
+fc2025_protocol,ICE DANCE RHYTHM DANCE,J2,ISU
+fc2025_protocol,ICE DANCE RHYTHM DANCE,J3,ISU
+fc2025_protocol,ICE DANCE RHYTHM DANCE,J4,ISU
+fc2025_protocol,ICE DANCE RHYTHM DANCE,J5,ISU
+fc2025_protocol,ICE DANCE RHYTHM DANCE,J6,ISU
+fc2025_protocol,ICE DANCE RHYTHM DANCE,J7,ISU
+fc2025_protocol,ICE DANCE RHYTHM DANCE,J8,ISU
+fc2025_protocol,ICE DANCE RHYTHM DANCE,J9,ISU
+fc2025_protocol,ICE DANCE FREE DANCE,J1,ISU
+fc2025_protocol,ICE DANCE FREE DANCE,J2,ISU
+fc2025_protocol,ICE DANCE FREE DANCE,J3,ISU
+fc2025_protocol,ICE DANCE FREE DANCE,J4,ISU
+fc2025_protocol,ICE DANCE FREE DANCE,J5,ISU
+fc2025_protocol,ICE DANCE FREE DANCE,J6,ISU
+fc2025_protocol,ICE DANCE FREE DANCE,J7,ISU
+fc2025_protocol,ICE DANCE FREE DANCE,J8,ISU
+fc2025_protocol,ICE DANCE FREE DANCE,J9,ISU
+fc2025_protocol,WOMEN SHORT PROGRAM,J1,ISU
+fc2025_protocol,WOMEN SHORT PROGRAM,J2,ISU
+fc2025_protocol,WOMEN SHORT PROGRAM,J3,ISU
+fc2025_protocol,WOMEN SHORT PROGRAM,J4,ISU
+fc2025_protocol,WOMEN SHORT PROGRAM,J5,ISU
+fc2025_protocol,WOMEN SHORT PROGRAM,J6,ISU
+fc2025_protocol,WOMEN SHORT PROGRAM,J7,ISU
+fc2025_protocol,WOMEN SHORT PROGRAM,J8,ISU
+fc2025_protocol,WOMEN SHORT PROGRAM,J9,ISU
+fc2025_protocol,WOMEN FREE SKATING,J1,ISU
+fc2025_protocol,WOMEN FREE SKATING,J2,ISU
+fc2025_protocol,WOMEN FREE SKATING,J3,ISU
+fc2025_protocol,WOMEN FREE SKATING,J4,ISU
+fc2025_protocol,WOMEN FREE SKATING,J5,ISU
+fc2025_protocol,WOMEN FREE SKATING,J6,ISU
+fc2025_protocol,WOMEN FREE SKATING,J7,ISU
+fc2025_protocol,WOMEN FREE SKATING,J8,ISU
+fc2025_protocol,WOMEN FREE SKATING,J9,ISU
+gpcan2024_protocol,PAIRS,J1,FRA
+gpcan2024_protocol,PAIRS,J2,SUI
+gpcan2024_protocol,PAIRS,J3,USA
+gpcan2024_protocol,PAIRS,J4,POL
+gpcan2024_protocol,PAIRS,J5,CAN
+gpcan2024_protocol,PAIRS,J6,AUS
+gpcan2024_protocol,PAIRS,J7,NED
+gpcan2024_protocol,PAIRS,J8,ITA
+gpcan2024_protocol,PAIRS,J9,GER
+gpcan2024_protocol,WOMEN,J1,POL
+gpcan2024_protocol,WOMEN,J2,FRA
+gpcan2024_protocol,WOMEN,J3,CAN
+gpcan2024_protocol,WOMEN,J4,CZE
+gpcan2024_protocol,WOMEN,J5,NED
+gpcan2024_protocol,WOMEN,J6,KAZ
+gpcan2024_protocol,WOMEN,J7,JPN
+gpcan2024_protocol,WOMEN,J8,SUI
+gpcan2024_protocol,WOMEN,J9,USA
+gpcan2024_protocol,MEN,J1,FRA
+gpcan2024_protocol,MEN,J2,AZE
+gpcan2024_protocol,MEN,J3,JPN
+gpcan2024_protocol,MEN,J4,USA
+gpcan2024_protocol,MEN,J5,KAZ
+gpcan2024_protocol,MEN,J6,GER
+gpcan2024_protocol,MEN,J7,CAN
+gpcan2024_protocol,MEN,J8,ITA
+gpcan2024_protocol,MEN,J9,AUS
+gpcan2024_protocol,ICE DANCE,J1,AZE
+gpcan2024_protocol,ICE DANCE,J2,USA
+gpcan2024_protocol,ICE DANCE,J3,CAN
+gpcan2024_protocol,ICE DANCE,J4,KAZ
+gpcan2024_protocol,ICE DANCE,J5,AUS
+gpcan2024_protocol,ICE DANCE,J6,CZE
+gpcan2024_protocol,ICE DANCE,J7,FRA
+gpcan2024_protocol,ICE DANCE,J8,GER
+gpchn2024_protocol,ICE DANCE,J1,FRA
+gpchn2024_protocol,ICE DANCE,J2,USA
+gpchn2024_protocol,ICE DANCE,J3,ISR
+gpchn2024_protocol,ICE DANCE,J4,FIN
+gpchn2024_protocol,ICE DANCE,J5,KAZ
+gpchn2024_protocol,ICE DANCE,J6,ITA
+gpchn2024_protocol,ICE DANCE,J7,CAN
+gpchn2024_protocol,ICE DANCE,J8,CHN
+gpchn2024_protocol,ICE DANCE,J9,ESP
+gpchn2024_protocol,WOMEN,J1,CHN
+gpchn2024_protocol,WOMEN,J2,GER
+gpchn2024_protocol,WOMEN,J3,ITA
+gpchn2024_protocol,WOMEN,J4,ISR
+gpchn2024_protocol,WOMEN,J5,KOR
+gpchn2024_protocol,WOMEN,J6,USA
+gpchn2024_protocol,WOMEN,J7,SUI
+gpchn2024_protocol,WOMEN,J8,CAN
+gpchn2024_protocol,WOMEN,J9,JPN
+gpchn2024_protocol,MEN,J1,GER
+gpchn2024_protocol,MEN,J2,KOR
+gpchn2024_protocol,MEN,J3,CHN
+gpchn2024_protocol,MEN,J4,KAZ
+gpchn2024_protocol,MEN,J5,ITA
+gpchn2024_protocol,MEN,J6,CAN
+gpchn2024_protocol,MEN,J7,FRA
+gpchn2024_protocol,MEN,J8,JPN
+gpchn2024_protocol,MEN,J9,LAT
+gpchn2024_protocol,PAIRS,J1,CAN
+gpchn2024_protocol,PAIRS,J2,FRA
+gpchn2024_protocol,PAIRS,J3,LAT
+gpchn2024_protocol,PAIRS,J4,ITA
+gpchn2024_protocol,PAIRS,J5,GER
+gpchn2024_protocol,PAIRS,J6,CHN
+gpchn2024_protocol,PAIRS,J7,SUI
+gpchn2024_protocol,PAIRS,J8,KAZ
+gpchn2024_protocol,PAIRS,J9,USA
+gpf2024_protocol,JUNIOR WOMEN,J1,UKR
+gpf2024_protocol,JUNIOR WOMEN,J2,CAN
+gpf2024_protocol,JUNIOR WOMEN,J3,KOR
+gpf2024_protocol,JUNIOR WOMEN,J4,FIN
+gpf2024_protocol,JUNIOR WOMEN,J5,SVK
+gpf2024_protocol,JUNIOR WOMEN,J6,CHN
+gpf2024_protocol,JUNIOR WOMEN,J7,USA
+gpf2024_protocol,JUNIOR WOMEN,J8,JPN
+gpf2024_protocol,JUNIOR WOMEN,J9,FRA
+gpf2024_protocol,PAIRS,J1,CAN
+gpf2024_protocol,PAIRS,J2,GER
+gpf2024_protocol,PAIRS,J3,GEO
+gpf2024_protocol,PAIRS,J4,FRA
+gpf2024_protocol,PAIRS,J5,ITA
+gpf2024_protocol,PAIRS,J6,CHN
+gpf2024_protocol,PAIRS,J7,USA
+gpf2024_protocol,PAIRS,J8,JPN
+gpf2024_protocol,PAIRS,J9,NZL
+gpf2024_protocol,WOMEN,J1,SVK
+gpf2024_protocol,WOMEN,J2,KOR
+gpf2024_protocol,WOMEN,J3,CHN
+gpf2024_protocol,WOMEN,J4,FRA
+gpf2024_protocol,WOMEN,J5,JPN
+gpf2024_protocol,WOMEN,J6,CAN
+gpf2024_protocol,WOMEN,J7,UKR
+gpf2024_protocol,WOMEN,J8,USA
+gpf2024_protocol,WOMEN,J9,FIN
+gpf2024_protocol,JUNIOR MEN,J1,FIN
+gpf2024_protocol,JUNIOR MEN,J2,FRA
+gpf2024_protocol,JUNIOR MEN,J3,USA
+gpf2024_protocol,JUNIOR MEN,J4,JPN
+gpf2024_protocol,JUNIOR MEN,J5,SVK
+gpf2024_protocol,JUNIOR MEN,J6,NZL
+gpf2024_protocol,JUNIOR MEN,J7,ITA
+gpf2024_protocol,JUNIOR MEN,J8,KOR
+gpf2024_protocol,JUNIOR MEN,J9,GER
+gpf2024_protocol,JUNIOR ICE DANCE,J1,ESP
+gpf2024_protocol,JUNIOR ICE DANCE,J2,FIN
+gpf2024_protocol,JUNIOR ICE DANCE,J3,GEO
+gpf2024_protocol,JUNIOR ICE DANCE,J4,USA
+gpf2024_protocol,JUNIOR ICE DANCE,J5,UKR
+gpf2024_protocol,JUNIOR ICE DANCE,J6,ITA
+gpf2024_protocol,JUNIOR ICE DANCE,J7,FRA
+gpf2024_protocol,JUNIOR ICE DANCE,J8,GBR
+gpf2024_protocol,JUNIOR ICE DANCE,J9,CAN
+gpf2024_protocol,JUNIOR PAIRS,J1,FRA
+gpf2024_protocol,JUNIOR PAIRS,J2,GER
+gpf2024_protocol,JUNIOR PAIRS,J3,CHN
+gpf2024_protocol,JUNIOR PAIRS,J4,USA
+gpf2024_protocol,JUNIOR PAIRS,J5,JPN
+gpf2024_protocol,JUNIOR PAIRS,J6,NZL
+gpf2024_protocol,JUNIOR PAIRS,J7,ITA
+gpf2024_protocol,JUNIOR PAIRS,J8,CAN
+gpf2024_protocol,JUNIOR PAIRS,J9,GEO
+gpf2024_protocol,ICE DANCE,J1,UKR
+gpf2024_protocol,ICE DANCE,J2,GBR
+gpf2024_protocol,ICE DANCE,J3,GEO
+gpf2024_protocol,ICE DANCE,J4,CAN
+gpf2024_protocol,ICE DANCE,J5,FIN
+gpf2024_protocol,ICE DANCE,J6,ITA
+gpf2024_protocol,ICE DANCE,J7,USA
+gpf2024_protocol,ICE DANCE,J8,ESP
+gpf2024_protocol,ICE DANCE,J9,FRA
+gpf2024_protocol,MEN,J1,USA
+gpf2024_protocol,MEN,J2,NZL
+gpf2024_protocol,MEN,J3,SVK
+gpf2024_protocol,MEN,J4,ITA
+gpf2024_protocol,MEN,J5,GER
+gpf2024_protocol,MEN,J6,FIN
+gpf2024_protocol,MEN,J7,JPN
+gpf2024_protocol,MEN,J8,KOR
+gpf2024_protocol,MEN,J9,FRA
+gpfin2024_protocol,MEN,J1,ITA
+gpfin2024_protocol,MEN,J2,KOR
+gpfin2024_protocol,MEN,J3,EST
+gpfin2024_protocol,MEN,J4,FIN
+gpfin2024_protocol,MEN,J5,JPN
+gpfin2024_protocol,MEN,J6,FRA
+gpfin2024_protocol,MEN,J7,USA
+gpfin2024_protocol,MEN,J8,SUI
+gpfin2024_protocol,MEN,J9,POL
+gpfin2024_protocol,WOMEN,J1,FIN
+gpfin2024_protocol,WOMEN,J2,BEL
+gpfin2024_protocol,WOMEN,J3,USA
+gpfin2024_protocol,WOMEN,J4,EST
+gpfin2024_protocol,WOMEN,J5,KOR
+gpfin2024_protocol,WOMEN,J6,JPN
+gpfin2024_protocol,WOMEN,J7,FRA
+gpfin2024_protocol,WOMEN,J8,HUN
+gpfin2024_protocol,WOMEN,J9,CZE
+gpfin2024_protocol,PAIRS,J1,ITA
+gpfin2024_protocol,PAIRS,J2,FIN
+gpfin2024_protocol,PAIRS,J3,CAN
+gpfin2024_protocol,PAIRS,J4,AUS
+gpfin2024_protocol,PAIRS,J5,POL
+gpfin2024_protocol,PAIRS,J6,SUI
+gpfin2024_protocol,PAIRS,J7,HUN
+gpfin2024_protocol,PAIRS,J8,USA
+gpfin2024_protocol,PAIRS,J9,BEL
+gpfin2024_protocol,ICE DANCE,J1,CAN
+gpfin2024_protocol,ICE DANCE,J2,USA
+gpfin2024_protocol,ICE DANCE,J3,FIN
+gpfin2024_protocol,ICE DANCE,J4,CZE
+gpfin2024_protocol,ICE DANCE,J5,MON
+gpfin2024_protocol,ICE DANCE,J6,UKR
+gpfin2024_protocol,ICE DANCE,J7,AUS
+gpfin2024_protocol,ICE DANCE,J8,NOR
+gpfin2024_protocol,ICE DANCE,J9,GBR
+gpfra2024_protocol,WOMEN,J1,USA
+gpfra2024_protocol,WOMEN,J2,JPN
+gpfra2024_protocol,WOMEN,J3,KOR
+gpfra2024_protocol,WOMEN,J4,MON
+gpfra2024_protocol,WOMEN,J5,CAN
+gpfra2024_protocol,WOMEN,J6,GER
+gpfra2024_protocol,WOMEN,J7,BEL
+gpfra2024_protocol,WOMEN,J8,FRA
+gpfra2024_protocol,WOMEN,J9,SUI
+gpfra2024_protocol,MEN,J1,JPN
+gpfra2024_protocol,MEN,J2,KAZ
+gpfra2024_protocol,MEN,J3,EST
+gpfra2024_protocol,MEN,J4,CHN
+gpfra2024_protocol,MEN,J5,SUI
+gpfra2024_protocol,MEN,J6,ITA
+gpfra2024_protocol,MEN,J7,CAN
+gpfra2024_protocol,MEN,J8,FRA
+gpfra2024_protocol,MEN,J9,USA
+gpfra2024_protocol,ICE DANCE,J1,CZE
+gpfra2024_protocol,ICE DANCE,J2,MON
+gpfra2024_protocol,ICE DANCE,J3,FRA
+gpfra2024_protocol,ICE DANCE,J4,CHN
+gpfra2024_protocol,ICE DANCE,J5,USA
+gpfra2024_protocol,ICE DANCE,J6,LTU
+gpfra2024_protocol,ICE DANCE,J7,ITA
+gpfra2024_protocol,ICE DANCE,J8,CAN
+gpfra2024_protocol,PAIRS,J1,ITA
+gpfra2024_protocol,PAIRS,J2,KOR
+gpfra2024_protocol,PAIRS,J3,FRA
+gpfra2024_protocol,PAIRS,J4,KAZ
+gpfra2024_protocol,PAIRS,J5,USA
+gpfra2024_protocol,PAIRS,J6,EST
+gpfra2024_protocol,PAIRS,J7,CAN
+gpfra2024_protocol,PAIRS,J8,BEL
+gpfra2024_protocol,PAIRS,J9,GER
+gpjpn2024_protocol,ICE DANCE,J1,USA
+gpjpn2024_protocol,ICE DANCE,J2,GEO
+gpjpn2024_protocol,ICE DANCE,J3,JPN
+gpjpn2024_protocol,ICE DANCE,J4,HUN
+gpjpn2024_protocol,ICE DANCE,J5,CAN
+gpjpn2024_protocol,ICE DANCE,J6,LTU
+gpjpn2024_protocol,ICE DANCE,J7,FIN
+gpjpn2024_protocol,ICE DANCE,J8,GER
+gpjpn2024_protocol,ICE DANCE,J9,FRA
+gpjpn2024_protocol,PAIRS,J1,USA
+gpjpn2024_protocol,PAIRS,J2,TPE
+gpjpn2024_protocol,PAIRS,J3,POL
+gpjpn2024_protocol,PAIRS,J4,ISR
+gpjpn2024_protocol,PAIRS,J5,NED
+gpjpn2024_protocol,PAIRS,J6,AZE
+gpjpn2024_protocol,PAIRS,J7,JPN
+gpjpn2024_protocol,PAIRS,J8,GER
+gpjpn2024_protocol,PAIRS,J9,GEO
+gpjpn2024_protocol,MEN,J1,TPE
+gpjpn2024_protocol,MEN,J2,AZE
+gpjpn2024_protocol,MEN,J3,KOR
+gpjpn2024_protocol,MEN,J4,JPN
+gpjpn2024_protocol,MEN,J5,USA
+gpjpn2024_protocol,MEN,J6,ISR
+gpjpn2024_protocol,MEN,J7,ITA
+gpjpn2024_protocol,MEN,J8,CAN
+gpjpn2024_protocol,MEN,J9,EST
+gpjpn2024_protocol,WOMEN,J1,USA
+gpjpn2024_protocol,WOMEN,J2,JPN
+gpjpn2024_protocol,WOMEN,J3,LTU
+gpjpn2024_protocol,WOMEN,J4,ITA
+gpjpn2024_protocol,WOMEN,J5,POL
+gpjpn2024_protocol,WOMEN,J6,KOR
+gpjpn2024_protocol,WOMEN,J7,HUN
+gpjpn2024_protocol,WOMEN,J8,NED
+gpjpn2024_protocol,WOMEN,J9,EST
+gpusa2024_protocol,PAIRS,J1,JPN
+gpusa2024_protocol,PAIRS,J2,CAN
+gpusa2024_protocol,PAIRS,J3,USA
+gpusa2024_protocol,PAIRS,J4,HUN
+gpusa2024_protocol,PAIRS,J5,ISR
+gpusa2024_protocol,PAIRS,J6,MEX
+gpusa2024_protocol,PAIRS,J7,BEL
+gpusa2024_protocol,PAIRS,J8,GEO
+gpusa2024_protocol,PAIRS,J9,FIN
+gpusa2024_protocol,WOMEN,J1,JPN
+gpusa2024_protocol,WOMEN,J2,KOR
+gpusa2024_protocol,WOMEN,J3,USA
+gpusa2024_protocol,WOMEN,J4,BEL
+gpusa2024_protocol,WOMEN,J5,GER
+gpusa2024_protocol,WOMEN,J6,LAT
+gpusa2024_protocol,WOMEN,J7,SUI
+gpusa2024_protocol,WOMEN,J8,FIN
+gpusa2024_protocol,WOMEN,J9,FRA
+gpusa2024_protocol,MEN,J1,LAT
+gpusa2024_protocol,MEN,J2,MEX
+gpusa2024_protocol,MEN,J3,CAN
+gpusa2024_protocol,MEN,J4,HUN
+gpusa2024_protocol,MEN,J5,SUI
+gpusa2024_protocol,MEN,J6,USA
+gpusa2024_protocol,MEN,J7,GEO
+gpusa2024_protocol,MEN,J8,CZE
+gpusa2024_protocol,MEN,J9,FRA
+gpusa2024_protocol,ICE DANCE,J1,GEO
+gpusa2024_protocol,ICE DANCE,J2,ISR
+gpusa2024_protocol,ICE DANCE,J3,CAN
+gpusa2024_protocol,ICE DANCE,J4,GER
+gpusa2024_protocol,ICE DANCE,J5,CZE
+gpusa2024_protocol,ICE DANCE,J6,ESP
+gpusa2024_protocol,ICE DANCE,J7,USA
+gpusa2024_protocol,ICE DANCE,J8,KOR
+gpusa2024_protocol,ICE DANCE,J9,GBR
